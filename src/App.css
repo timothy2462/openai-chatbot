@@ -1,0 +1,30 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.App {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color:gray;
+  
+
+  }
+  
+  .general-container {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    /* overflow: hidden; */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    position: relative;
+    height: 520px;
+    width: 640px;
+
+  }
+ h1{
+  color:#26345f ;
+  text-align: center;
+
+ }
